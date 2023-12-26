@@ -1,0 +1,17 @@
+.hero {
+    background-image: url(".../undangan/assets/image/6.jpg");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hidden-navbar {
+    height: 70px;
+}
+.color {
+    color: grey;
+}
+.ize {
+    font-size: xx-large;
+}
